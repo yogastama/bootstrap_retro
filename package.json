@@ -1,0 +1,15 @@
+{
+ "name": "@yogastama/bootstrap_retro",
+ "version": "1.0.0",
+ "description": "Bootstrap Retro",
+ "license": "MIT",
+ "repository": "yogastama/bootstrap_retro",
+ "main": "index.js",
+ "keywords": [
+   "bootstrap",
+   "npm",
+   "package",
+   "yogastama",
+   "bootstrap_retro"
+ ]
+}
